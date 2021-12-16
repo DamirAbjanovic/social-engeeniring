@@ -20,9 +20,20 @@ h1{
 h2{
   font-size:xx-large;
 }
+h3{
+font-size:large;
+
+}
 
 p{
   font-size: larger;
+  text-align: justify;
+  padding: 15px;
+}
+
+p2{
+  font-size:small;
+
 }
 
 .banner{
@@ -47,6 +58,7 @@ p{
   padding: 5px;
   background-color: rgb(241, 151, 77);
   text-align: center;
+  align-items: center;
   width: 220px;
   margin: 0 5px 0 5px;
   font-size:x-large;
@@ -111,20 +123,24 @@ li a:hover {
   color: black;
   border: 1px;
   border-radius: 10px;
+  
 }
 
 /*the style of left side navigation that is available on Social Engineering Attacks web page*/
 .secondary-menu {
   flex: 0 0 15%;
+  border: 2px;
+  border-color: black;
   
 }
 
 /*style of left side navigation current page (selected page)*/
 .secondary-menu-item.selected {
-  background-color: rgb(108, 219, 210);
+  background-color: rgb(106, 114, 158);
   color: white;
   border: 1px;
   border-radius: 10px;
+  border-color: #000;
 }
 
 /*the style of text on Social Engineering Attacks web pages*/
@@ -137,33 +153,37 @@ li a:hover {
   margin-top: 0;
 }
 
-.video-box{
-padding: auto;
+/*the style of video boxes*/
 
+.video box{
+padding-left: 10px;
 }
 
 footer {
   background-color: rgb(3, 21, 96);
   padding: 5px 25px 5px 25px;
   text-align: center;
-  font-size: small;
   color: white;
+  font-size: 11px;
   padding-top: 20px;
 }
 
-footer ico-icon {
-  color: white;
+
+/*The Social Media Icons and styling*/
+
+footer ion-icon {
+  color:white;
 }
 
 ion-icon:hover{
-  font-size: 35px;
-  color: rgb(187, 197, 255);
-  transition: all, 0.5s, ease 0.5s;
-}
-
-ion-icon {
   color: rgb(102, 125, 255);
+  transition: all, 0.3s, ease 0.8s;
+}
+ion-icon {
+  color:  rgb(3, 21, 96);
   font-size: 35px;
+  display:inline-block;
+  padding: 10px;
 }
 
 ion-icon {
