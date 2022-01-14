@@ -12,3 +12,5 @@ Fixed the paragraph formatting, now it look more tidy. Did some style of the soc
 Spell check done from the document Sean provided.
 
 Phishing and Tailgating content added.
+
+Video Box size set the same on all pages.
