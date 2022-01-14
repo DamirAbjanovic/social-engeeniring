@@ -10,3 +10,5 @@ Fixed the main menu page boxes, now they are clickable. Added social media butto
 Fixed the paragraph formatting, now it look more tidy. Did some style of the social media icons in the footer. There was some title issues, that I have fixed before. But, since people were using old versions of source files for their pages, they reintroduced them back in. Minor visual updates.
 
 Spell check done from the document Sean provided.
+
+Phishing and Tailgating content added.
