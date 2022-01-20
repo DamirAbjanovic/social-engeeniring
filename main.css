@@ -35,6 +35,9 @@ p2{
   font-size:small;
 
 }
+.bold {
+  font-weight: bold;
+}
 
 .banner{
   width: 1024px;
@@ -97,6 +100,10 @@ main {
   padding-bottom: 30px;
   padding: 25px;
   display: flex;
+}
+
+.main-wrap {
+  flex-wrap: wrap;
 }
 
 /*the style of left side navigation that is available on Social Engineering Attacks web page*/
