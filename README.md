@@ -14,3 +14,5 @@ Spell check done from the document Sean provided.
 Phishing and Tailgating content added.
 
 Video Box size set the same on all pages.
+
+TikTok - link to new account added to all the pages.
